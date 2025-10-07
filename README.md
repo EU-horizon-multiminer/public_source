@@ -1,2 +1,5 @@
-# public_source
-Public sources
+# Multiminer Public Repository
+WP1
+WP2
+WP3
+...
